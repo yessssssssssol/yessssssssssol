@@ -33,9 +33,10 @@
   <div align='center'>
   <p align='center'><strong>🏁엘리스 AI 4기 팀프로젝트🏁</strong> </p>
   <div align='center' block>
+      <a href="https://github.com/yessssssssssol/STUDIOUS_CAMSTUDY"><img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=yessssssssssol&repo=STUDIOUS_CAMSTUDY&theme=dracula"></a>
     <a href="https://github.com/yessssssssssol/COUNTRY_GOGO"><img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=yessssssssssol&repo=COUNTRY_GOGO&theme=dracula"></a>
     <a href="https://github.com/yessssssssssol/Dfolio_web"><img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=yessssssssssol&repo=Dfolio_web&theme=dracula"></a>
-    <a href="https://github.com/yessssssssssol/STUDIOUS_CAMSTUDY"><img align='center' src="https://github-readme-stats.vercel.app/api/pin/?username=yessssssssssol&repo=STUDIOUS_CAMSTUDY&theme=dracula"></a>
+
  
   </div>
 
