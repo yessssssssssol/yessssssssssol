@@ -1,7 +1,6 @@
 
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=yessssssssssol&show_icons=true&theme=highcontrast&hide="/>
  
   # 🐣 YESOL PARK 🐥
 
